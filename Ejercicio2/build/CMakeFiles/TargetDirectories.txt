@@ -1,0 +1,6 @@
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/CMakeFiles/main.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/my_Library/CMakeFiles/my_Library.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/my_Library/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio2/build/my_Library/CMakeFiles/rebuild_cache.dir

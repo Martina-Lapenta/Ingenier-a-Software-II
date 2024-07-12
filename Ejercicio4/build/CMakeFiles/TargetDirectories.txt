@@ -1,0 +1,3 @@
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio4/build/CMakeFiles/EJERCICIO4.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio4/build/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/INSTITUTO/ingenieria/Actividad_evaluatoria/Ejercicio4/build/CMakeFiles/rebuild_cache.dir
